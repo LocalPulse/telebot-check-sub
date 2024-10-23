@@ -5,7 +5,7 @@ from telebot import types
 from requests.exceptions import ReadTimeout
 from telebot.apihelper import ApiTelegramException
 
-API_TOKEN = '7655592834:AAHb9izWZn7yvcwm1Z-1gMOaF_KQGaNjeR8'
+API_TOKEN = ''
 ADMIN_USERNAMES = ['glock84', '@odysseyofdreams', '@AkiraDou']  # Список пользователей, которые могут управлять ботом
 CHANNELS_FILE = 'channels.txt'  # Файл для хранения списка каналов
 
